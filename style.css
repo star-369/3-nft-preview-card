@@ -85,8 +85,6 @@ p {
 .auction {
   display: flex;
   justify-content: space-between;
-  align-content: center;
-  align-items: center;
   margin: 1rem 0;
 }
 .auction-section {
